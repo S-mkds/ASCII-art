@@ -1,0 +1,10 @@
+{
+  "name": "readme-ascii",
+  "description": "Turn text into an image of ASCII art",
+  "keywords": [
+    "readme",
+    "ascii",
+    "express",
+    "puppeteer"
+  ]
+}
