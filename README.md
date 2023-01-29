@@ -17,15 +17,7 @@ screen sizes. That's why I made this project, to turn the ASCII text into an ima
 can resize as expected.
 
 
-## Usage
-Using this project couldn't be simpler.
 
-1. Go to the site
-2. Enter your text
-3. Click "Generate Image"
-4. Wait as your image is created
-5. Download the image
-6. Success!
 
 ## Development
 If you want to work on this project locally, run the following commands:
